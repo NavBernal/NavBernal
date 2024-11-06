@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Nav! <br/><a href="https://www.linkedin.com/in/navjitbernal/">Computer Technician</a>
 
-<!--
-**NavBernal/NavBernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- [Analyze Network Traffic With TCPDump](https://github.com/NavBernal/AnalyzeNetworkTrafficWithTCPDump)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Programming Projects:</h2>
+
+- [Appause](https://github.com/BaconToasts/Appause)
+- [Modify Mock SQL Database in Real-Time](https://github.com/abHam87/CSC-174-Final-Project)
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/navjitbernal
