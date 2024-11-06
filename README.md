@@ -9,6 +9,10 @@
 - [Appause](https://github.com/BaconToasts/Appause)
 - [Modify Mock SQL Database in Real-Time](https://github.com/abHam87/CSC-174-Final-Project)
 
+<h2>Certifications:</h2>
+
+- [CompTIA Security+](https://i.imgur.com/fcHCfmr.png)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
