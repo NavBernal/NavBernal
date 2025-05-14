@@ -2,6 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
+- [CCNA Mega Lab](https://github.com/NavBernal/CCNA-Mega-Lab)
 - [Analyze Network Traffic With TCPDump](https://github.com/NavBernal/AnalyzeNetworkTrafficWithTCPDump)
 
 <h2>Programming Projects:</h2>
