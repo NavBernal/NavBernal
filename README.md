@@ -13,7 +13,8 @@
 
 <h2>Certifications:</h2>
 
-- [CompTIA Security+](https://i.imgur.com/fcHCfmr.png)
+- [CCNA](https://www.credly.com/badges/7e823aab-54c1-4e82-b6e5-c363e8550b8c/public_url)
+- [CompTIA Security+]([https://i.imgur.com/fcHCfmr.png](https://www.credly.com/badges/a1f64790-ddbc-478a-a4e7-d2476c580917/public_url))
 
 <h2>Connect with me:</h2>
 
