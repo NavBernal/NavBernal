@@ -2,6 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
+- [Port Scanner](https://github.com/NavBernal/Port-Scanner)
 - [DoS Script](https://github.com/NavBernal/DoS-Script)
 - [CCNA Mega Lab](https://github.com/NavBernal/CCNA-Mega-Lab)
 - [Analyze Network Traffic With TCPDump](https://github.com/NavBernal/AnalyzeNetworkTrafficWithTCPDump)
