@@ -4,8 +4,11 @@
 
 - [Port Scanner](https://github.com/NavBernal/Port-Scanner)
 - [DoS Script](https://github.com/NavBernal/DoS-Script)
+
+<h2>Networking Projects:</h2>
 - [CCNA Mega Lab](https://github.com/NavBernal/CCNA-Mega-Lab)
 - [Analyze Network Traffic With TCPDump](https://github.com/NavBernal/AnalyzeNetworkTrafficWithTCPDump)
+- [TCP Chat Room](https://github.com/NavBernal/TCP-Chat-Room)
 
 <h2>Programming Projects:</h2>
 
